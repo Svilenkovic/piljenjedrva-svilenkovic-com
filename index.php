@@ -34,6 +34,8 @@
     <meta name="geo.position" content="45.8150;15.9819">
     <meta name="ICBM" content="45.8150, 15.9819">
     <link rel="canonical" href="https://piljenjedrva.svilenkovic.com/">
+    <link rel="alternate" hreflang="hr" href="https://piljenjedrva.svilenkovic.rs/">
+    <link rel="alternate" hreflang="x-default" href="https://piljenjedrva.svilenkovic.com/">
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -700,8 +702,8 @@
              <p>&copy; 2026 Piljenje drva Zagreb &mdash; Demo</p>
                           <p class="mt-2 text-sm text-gray-300">Profesionalna usluga piljenja drva za ogrjev &mdash; Demo web sajta</p>
              <p class="mt-2 text-xs text-gray-300">Dizajn i razvoj: <a href="https://svilenkovic.com" class="hover:text-white transition-colors">D. Svilenković</a> | Kontakt: <a href="mailto:dimitrije@svilenkovic.com" class="hover:text-white transition-colors">dimitrije@svilenkovic.com</a> | <a href="tel:+381612248989" class="hover:text-white transition-colors">+381 61 224 8989</a></p>
-             <p class="mt-3 text-xs text-gray-300"><a href="/privacy.html" class="hover:text-white transition-colors">Politika privatnosti</a> &middot; <a href="/terms.html" class="hover:text-white transition-colors">Uslovi korišćenja</a></p>
-             
+             <p class="mt-3 text-xs text-gray-300"><a href="/privacy.html" class="hover:text-white transition-colors">Politika privatnosti</a> &middot; <a href="/terms.html" class="hover:text-white transition-colors">Uslovi korišćenja</a> &middot; Sestrinski demo: <a href="https://piljenjedrva.svilenkovic.rs" rel="alternate" hreflang="hr" class="hover:text-white underline transition-colors">piljenjedrva.svilenkovic.rs</a></p>
+
                      <nav aria-label="Drugi sajtovi" class="flex flex-wrap justify-center gap-x-4 gap-y-2 text-xs">
                         <a href="https://onbeat.ba" target="_blank" rel="noopener" class="inline-block py-2 px-1 text-gray-300 hover:text-white transition-colors">onbeat.ba</a>
                         <a href="https://prvalekcija.com" target="_blank" rel="noopener" class="inline-block py-2 px-1 text-gray-300 hover:text-white transition-colors">prvalekcija.com</a>
